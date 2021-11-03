@@ -1,0 +1,7 @@
+{
+  "name": "campus-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
